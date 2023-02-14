@@ -39,3 +39,12 @@
 .read-the-docs {
   color: #888;
 }
+.button-theme-dark {
+  background-color: black;
+  color: white;
+}
+.update-context-theme-dark{
+  background-color: #ccc;
+  color: saddlebrown;
+}
+
